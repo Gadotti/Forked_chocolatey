@@ -15,12 +15,12 @@ choco install desktopicons-winconfig --params "'/Desktop:NO /UserFiles:NO /Contr
 # Basics
 #choco install geforce-experience
 #choco install cmder
-choco install listary
+#choco install listary
 choco install winrar
-choco install lightshot
+#choco install lightshot
 
 # Browser
-choco install googlechrome
+#choco install googlechrome
 #choco install opera
 #choco install firefox
 
@@ -46,10 +46,10 @@ choco install insomnia-rest-api-client
 #choco install netbeans
 
 # Music/Video
-choco install vlc
+#choco install vlc
 choco install spotify
 
 # Others
 choco install discord
-choco install whatsapp
+#choco install whatsapp
 #choco install thunderbird
