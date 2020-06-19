@@ -30,7 +30,7 @@ choco install sublimetext3
 
 # Controle de Versão de Código
 choco install git
-choco install github-desktop
+#choco install github-desktop
 #choco install gitkraken
 
 # REST Client
